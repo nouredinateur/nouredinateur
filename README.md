@@ -3,7 +3,6 @@
 
 
 
-#### A little more about me
 ```javascript
 const nourdine = {
   position: "FullStack Developer",
