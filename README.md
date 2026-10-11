@@ -1,1 +1,1 @@
-Building [Clickable Text](https://www.glottago.com/)
+Building [Glottago](https://www.glottago.com/)
