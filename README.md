@@ -1,3 +1,1 @@
-```javascript
-Building https://www.glottago.com/
-```
+Building [Clickable Text](https://www.glottago.com/)
